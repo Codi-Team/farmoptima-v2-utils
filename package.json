@@ -1,5 +1,5 @@
 {
-  "name": "farmoptima-v2-utils",
+  "name": "@awmdeguzman/farmoptima-v2-utils",
   "version": "1.0.0",
   "main": "dist/index.js",
   "scripts": {
